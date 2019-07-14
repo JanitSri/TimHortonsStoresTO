@@ -1,0 +1,1112 @@
+{
+  "45 Manitoba Dr M6K 3C3": [
+    "(416) 263-5724",
+    "https://locations.timhortons.com/ca/on/toronto/45-manitoba-dr.html",
+    43.6356259,
+    -79.41500119999999
+  ],
+  "1176 St Clair Ave West M6E 1B4": [
+    "(416) 546-8379",
+    "https://locations.timhortons.com/ca/on/toronto/1176-st-clair-ave-west.html",
+    43.6780736,
+    -79.4436935
+  ],
+  "3487 Dundas St West M6S 2S5": [
+    "(416) 763-3113",
+    "https://locations.timhortons.com/ca/on/toronto/3487-dundas-st-west.html",
+    43.6654,
+    -79.48825049999999
+  ],
+  "866 Ave Rd M5P 2K3": [
+    "(416) 487-1920",
+    "https://locations.timhortons.com/ca/on/toronto/866-ave-rd.html",
+    43.698594,
+    -79.4063639
+  ],
+  "969 Eastern Ave M4L 1A5": [
+    "(416) 462-5157",
+    "https://locations.timhortons.com/ca/on/toronto/969-eastern-ave.html",
+    43.6621509,
+    -79.321558
+  ],
+  "941 Progress Ave M1C 3T8": [
+    "(416) 289-5000",
+    "https://locations.timhortons.com/ca/on/toronto/941-progress-ave.html",
+    43.7861742,
+    -79.2265232
+  ],
+  "610 University Ave M5J 1A7": [
+    "(416) 585-2914",
+    "https://locations.timhortons.com/ca/on/toronto/610-university-ave.html",
+    43.6581169,
+    -79.3907253
+  ],
+  "750 Lawrence Ave West M6A 1B8": [
+    "(416) 784-6331",
+    "https://locations.timhortons.com/ca/on/toronto/750-lawrence-ave-west.html",
+    43.7159458,
+    -79.4495528
+  ],
+  "419 Bloor St East M4W 1H7": [
+    "(647) 427-5105",
+    "https://locations.timhortons.com/ca/on/toronto/419-bloor-st-east.html",
+    43.6721683,
+    -79.37698549999999
+  ],
+  "91 Danforth Ave M4K 1N2": [
+    "(416) 901-9955",
+    "https://locations.timhortons.com/ca/on/toronto/91-danforth-ave.html",
+    43.6760785,
+    -79.3584529
+  ],
+  "361a Old Finch Ave M1B 5K7": [
+    "(416) 392-6003",
+    "https://locations.timhortons.com/ca/on/toronto/361a-old-finch-ave.html",
+    43.8246502,
+    -79.1902758
+  ],
+  "246 Bloor St West M5S 1V4": [
+    "(416) 924-8188",
+    "https://locations.timhortons.com/ca/on/toronto/246-bloor-st-west.html",
+    43.6682968,
+    -79.3977184
+  ],
+  "150 John St M5V 3C3": [
+    "(647) 343-1733",
+    "https://locations.timhortons.com/ca/on/toronto/150-john-st.html",
+    43.6492277,
+    -79.39120919999999
+  ],
+  "65 Queen St West M5H 2M5": [
+    "(416) 360-6776",
+    "https://locations.timhortons.com/ca/on/toronto/65-queen-st-west.html",
+    43.65162249999999,
+    -79.3822584
+  ],
+  "1733 Eglinton Ave East M4A 1J8": [
+    "(647) 259-0676",
+    "https://locations.timhortons.com/ca/on/toronto/1733-eglinton-ave-east.html",
+    43.7254358,
+    -79.31279839999999
+  ],
+  "150 King Steet West M5J 1J9": [
+    "(416) 979-8467",
+    "https://locations.timhortons.com/ca/on/toronto/150-king-steet-west.html",
+    43.64811599999999,
+    -79.3844795
+  ],
+  "2275 Bayview Ave M4N 3M6": [
+    "(416) 487-6718",
+    "https://locations.timhortons.com/ca/on/toronto/2275-bayview-ave.html",
+    43.7282826,
+    -79.3789371
+  ],
+  "335 Parliament St M5A 2Z3": [
+    "(416) 703-2717",
+    "https://locations.timhortons.com/ca/on/toronto/335-parliament-st.html",
+    43.6599241,
+    -79.3659147
+  ],
+  "1890 Jane St M9N 2T5": [
+    "(416) 245-7928",
+    "https://locations.timhortons.com/ca/on/toronto/1890-jane-st.html",
+    43.7095229,
+    -79.5060541
+  ],
+  "1 Mount Pleasent Ave M4Y 2Y5": [
+    "(416) 935-6811",
+    "https://locations.timhortons.com/ca/on/toronto/1-mount-pleasent-ave.html",
+    43.6700271,
+    -79.37937699999999
+  ],
+  "77 King St West M5K 2A1": [
+    "(416) 364-5858",
+    "https://locations.timhortons.com/ca/on/toronto/77-king-st-west.html",
+    43.6478979,
+    -79.3820355
+  ],
+  "1681 Lakeshore Blvd East M4L 3W6": [
+    "(416) 694-8844",
+    "https://locations.timhortons.com/ca/on/toronto/1681-lakeshore-blvd-east.html",
+    43.66262070000001,
+    -79.31002509999999
+  ],
+  "120 Adelaide St W Unit Fc-09 M5H 1T1": [
+    "(647) 350-5543",
+    "https://locations.timhortons.com/ca/on/toronto/120-adelaide-st-w-unit-fc-09.html",
+    43.6499494,
+    -79.38321049999999
+  ],
+  "2575 Danforth Ave M4C 1L5": [
+    "(416) 698-0439",
+    "https://locations.timhortons.com/ca/on/toronto/2575-danforth-ave.html",
+    43.6881323,
+    -79.3003045
+  ],
+  "3080 Yonge Street M4N 3N1": [
+    "(416) 488-4975",
+    "https://locations.timhortons.com/ca/on/toronto/3080-yonge-street.html",
+    43.7253708,
+    -79.402817
+  ],
+  "1110 Bathurst St M5R 3H2": [
+    "(416) 516-6161",
+    "https://locations.timhortons.com/ca/on/toronto/1110-bathurst-st.html",
+    43.67341649999999,
+    -79.41471729999999
+  ],
+  "130 King St West M5X 1A9": [
+    "(416) 861-1718",
+    "https://locations.timhortons.com/ca/on/toronto/130-king-st-west.html",
+    43.648528,
+    -79.38333589999999
+  ],
+  "2075 Sheppard Ave E M2J 1W6": [
+    "(416) 491-6731",
+    "https://locations.timhortons.com/ca/on/toronto/2075-sheppard-ave-e.html",
+    43.7748117,
+    -79.3342777
+  ],
+  "1 King's College Circle M5S 1A8": [
+    "(416) 978-0839",
+    "https://locations.timhortons.com/ca/on/toronto/1-king-s-college-circle.html",
+    43.6608871,
+    -79.3937206
+  ],
+  "120 Fort York Blvd M5V 0E3": [
+    "(647) 341-3650",
+    "https://locations.timhortons.com/ca/on/toronto/120-fort-york-blvd.html",
+    43.6395537,
+    -79.3984339
+  ],
+  "200 Bay St M5J 2J1": [
+    "(416) 304-0162",
+    "https://locations.timhortons.com/ca/on/toronto/200-bay-st.html",
+    43.6464188,
+    -79.3798169
+  ],
+  "1521 Yonge St M4T 1Z2": [
+    "(416) 922-9993",
+    "https://locations.timhortons.com/ca/on/toronto/1521-yonge-st.html",
+    43.6896236,
+    -79.3943759
+  ],
+  "3157 Dundas St W M6P 2A2": [
+    "(416) 769-2828",
+    "https://locations.timhortons.com/ca/on/toronto/3157-dundas-st-w.html",
+    43.6653638,
+    -79.47506849999999
+  ],
+  "40 King St W M5H 3Y2": [
+    "(416) 815-7117",
+    "https://locations.timhortons.com/ca/on/toronto/40-king-st-w.html",
+    43.6494957,
+    -79.3795298
+  ],
+  "731 Eastern Ave M4M 3H6": [
+    "(416) 466-3580",
+    "https://locations.timhortons.com/ca/on/toronto/731-eastern-ave.html",
+    43.6593885,
+    -79.3300086
+  ],
+  "200 Wellington St W M5V 3C7": [
+    "(416) 977-8023",
+    "https://locations.timhortons.com/ca/on/toronto/200-wellington-st-w.html",
+    43.6459076,
+    -79.38782239999999
+  ],
+  "10 Bay St M5J 2V7": [
+    "(416) 607-6247",
+    "https://locations.timhortons.com/ca/on/toronto/10-bay-st.html",
+    43.6412346,
+    -79.3773697
+  ],
+  "755 Morningside M1C 5J9": [
+    "(416) 289-5000",
+    "https://locations.timhortons.com/ca/on/toronto/755-morningside.html",
+    43.7863202,
+    -79.1931192
+  ],
+  "3030 Lawrence Ave East M1P 2V6": [
+    "(416) 439-2096",
+    "https://locations.timhortons.com/ca/on/toronto/3030-lawrence-ave-east.html",
+    43.75601289999999,
+    -79.247757
+  ],
+  "90 Adelaide St W M5H 3V9": [
+    "(416) 203-3931",
+    "https://locations.timhortons.com/ca/on/toronto/90-adelaide-st-w.html",
+    43.6498545,
+    -79.3820602
+  ],
+  "176 Front Street East M5A 1E6": [
+    "(437) 225-5751",
+    "https://locations.timhortons.com/ca/on/toronto/176-front-street-east.html",
+    43.6506374,
+    -79.36769389999999
+  ],
+  "2619 Yonge St M4P 2J1": [
+    "(647) 344-5837",
+    "https://locations.timhortons.com/ca/on/toronto/2619-yonge-st.html",
+    43.71488,
+    -79.3997964
+  ],
+  "2700 Dufferin St M6B 4J3": [
+    "(416) 256-4813",
+    "https://locations.timhortons.com/ca/on/toronto/2700-dufferin-st.html",
+    43.7020158,
+    -79.4528133
+  ],
+  "200 Bloor St East M4W 1E5": [
+    "(416) 926-3000",
+    "https://locations.timhortons.com/ca/on/toronto/200-bloor-st-east.html",
+    43.6719048,
+    -79.38201629999999
+  ],
+  "1970 St Clair Avenue West M6N 4X9": [
+    "(416) 763-5656",
+    "https://locations.timhortons.com/ca/on/toronto/1970-st-clair-avenue-west.html",
+    43.6723788,
+    -79.46937779999999
+  ],
+  "75 Ashtonbee Rd M1L 4N4": [
+    "(416) 289-5000",
+    "https://locations.timhortons.com/ca/on/toronto/75-ashtonbee-rd.html",
+    43.73080909999999,
+    -79.29012519999999
+  ],
+  "581 Parliament St M4X 1P7": [
+    "(416) 963-9907",
+    "https://locations.timhortons.com/ca/on/toronto/581-parliament-st.html",
+    43.6671042,
+    -79.3687709
+  ],
+  "100 St George St M5S 3G3": [
+    "(416) 978-1390",
+    "https://locations.timhortons.com/ca/on/toronto/100-st-george-st.html",
+    43.662532,
+    -79.3986781
+  ],
+  "50 Bloor St West M4W 3L8": [
+    "(416) 920-8777",
+    "https://locations.timhortons.com/ca/on/toronto/50-bloor-st-west.html",
+    43.6703401,
+    -79.3882622
+  ],
+  "1728 Bloor St West M6P 1A8": [
+    "(416) 767-2788",
+    "https://locations.timhortons.com/ca/on/toronto/1728-bloor-st-west.html",
+    43.6553121,
+    -79.458697
+  ],
+  "120 Bremner Blvd M5J 0A8": [
+    "(647) 560-6992",
+    "https://locations.timhortons.com/ca/on/toronto/120-bremner-blvd.html",
+    43.64309,
+    -79.3830719
+  ],
+  "160 Kendal Ave M5R 1M3": [
+    "(416) 415-5000",
+    "https://locations.timhortons.com/ca/on/toronto/160-kendal-ave.html",
+    43.6757108,
+    -79.4107835
+  ],
+  "1000 Gerard St East M4M 3G6": [
+    "(416) 778-1084",
+    "https://locations.timhortons.com/ca/on/toronto/1000-gerard-st-east.html",
+    43.669144,
+    -79.3391627
+  ],
+  "111 Carlton St M5B 2G3": [
+    "(416) 591-7402",
+    "https://locations.timhortons.com/ca/on/toronto/111-carlton-st.html",
+    43.6621286,
+    -79.3769576
+  ],
+  "3140 Dufferin St M6A 2T1": [
+    "(647) 341-4101",
+    "https://locations.timhortons.com/ca/on/toronto/3140-dufferin-st.html",
+    43.7166459,
+    -79.4567726
+  ],
+  "100 Wellington St West M5K 1A2": [
+    "(416) 364-8585",
+    "https://locations.timhortons.com/ca/on/toronto/100-wellington-st-west.html",
+    43.6468356,
+    -79.3825552
+  ],
+  "70 The Pond Rd M3J 3M6": [
+    "(416) 491-5050",
+    "https://locations.timhortons.com/ca/on/toronto/70-the-pond-rd-8677227.html",
+    43.7712899,
+    -79.499827
+  ],
+  "555 Sherbourne Street M4X 1W7": [
+    "(647) 350-8432",
+    "https://locations.timhortons.com/ca/on/toronto/555-sherbourne-street.html",
+    43.6690558,
+    -79.374951
+  ],
+  "745 College St M6G 1C5": [
+    "(416) 516-8077",
+    "https://locations.timhortons.com/ca/on/toronto/745-college-st.html",
+    43.65458400000001,
+    -79.4197717
+  ],
+  "2485 Bloor St West M6S 1P7": [
+    "(416) 767-8517",
+    "https://locations.timhortons.com/ca/on/toronto/2485-bloor-st-west.html",
+    43.6483065,
+    -79.4852408
+  ],
+  "663 Yonge St M4Y 1Z9": [
+    "(647) 343-2769",
+    "https://locations.timhortons.com/ca/on/toronto/663-yonge-st.html",
+    43.6683471,
+    -79.3858547
+  ],
+  "150 Wynford Dr M3C 1K6": [
+    "(416) 644-3222",
+    "https://locations.timhortons.com/ca/on/toronto/150-wynford-dr.html",
+    43.7272478,
+    -79.3265316
+  ],
+  "55 York St M5J 1R7": [
+    "(416) 363-1055",
+    "https://locations.timhortons.com/ca/on/toronto/55-york-st.html",
+    43.6462258,
+    -79.3825135
+  ],
+  "607 Eglinton Ave East M4P 1P8": [
+    "(416) 489-5168",
+    "https://locations.timhortons.com/ca/on/toronto/607-eglinton-ave-east.html",
+    43.7108087,
+    -79.3773834
+  ],
+  "547 Gerrard St East M4M 1X7": [
+    "(647) 352-7879",
+    "https://locations.timhortons.com/ca/on/toronto/547-gerrard-st-east.html",
+    43.6646941,
+    -79.3548845
+  ],
+  "537 Parliament St M4X 1P3": [
+    "(416) 972-0003",
+    "https://locations.timhortons.com/ca/on/toronto/537-parliament-st.html",
+    43.665773,
+    -79.3684189
+  ],
+  "70 Gerrard St West M5G 1J5": [
+    "(647) 347-6870",
+    "https://locations.timhortons.com/ca/on/toronto/70-gerrard-st-west.html",
+    43.6585273,
+    -79.3851222
+  ],
+  "1269 College St M6H 1C5": [
+    "(416) 538-2044",
+    "https://locations.timhortons.com/ca/on/toronto/1269-college-st.html",
+    43.65089529999999,
+    -79.4394679
+  ],
+  "148 Simcoe St M5H 3G4": [
+    "(416) 591-3695",
+    "https://locations.timhortons.com/ca/on/toronto/148-simcoe-st.html",
+    43.6497241,
+    -79.38725099999999
+  ],
+  "110 West Toronto St M6N 5B7": [
+    "(416) 769-9339",
+    "https://locations.timhortons.com/ca/on/toronto/110-west-toronto-st.html",
+    43.6685229,
+    -79.47056429999999
+  ],
+  "333 Bay Street M5H 2R2": [
+    "(416) 869-3332",
+    "https://locations.timhortons.com/ca/on/toronto/333-bay-street.html",
+    43.6503406,
+    -79.38052069999999
+  ],
+  "210 Princes Blvd M6K 3C3": [
+    "(647) 886-7187",
+    "https://locations.timhortons.com/ca/on/toronto/210-princes-blvd.html",
+    43.633057,
+    -79.4225675
+  ],
+  "250 Bloor St M4W 1E5": [
+    "(416) 921-4367",
+    "https://locations.timhortons.com/ca/on/toronto/250-bloor-st.html",
+    43.6719377,
+    -79.3807846
+  ],
+  "680 Sheppard Ave West M3H 2S5": [
+    "(647) 352-4651",
+    "https://locations.timhortons.com/ca/on/toronto/680-sheppard-ave-west.html",
+    43.7547636,
+    -79.4433582
+  ],
+  "170 University Ave M5H 3B3": [
+    "(416) 598-0220",
+    "https://locations.timhortons.com/ca/on/toronto/170-university-ave.html",
+    43.6485691,
+    -79.38575510000001
+  ],
+  "769 Yonge St M4W 2G4": [
+    "(416) 934-1756",
+    "https://locations.timhortons.com/ca/on/toronto/769-yonge-st.html",
+    43.6711025,
+    -79.3869623
+  ],
+  "3222 Yonge St M4N 2L2": [
+    "(416) 850-0137",
+    "https://locations.timhortons.com/ca/on/toronto/3222-yonge-st.html",
+    43.7288337,
+    -79.4034703
+  ],
+  "69 Regent Park Blvd M5A 0K7": [
+    "(416) 901-3596",
+    "https://locations.timhortons.com/ca/on/toronto/69-regent-park-blvd.html",
+    43.6599274,
+    -79.3613063
+  ],
+  "561 O' Connor Dr M4C 2Z7": [
+    "(416) 421-0714",
+    "https://locations.timhortons.com/ca/on/toronto/561-o--connor-dr.html",
+    43.6976054,
+    -79.329133
+  ],
+  "55 St Clair Ave W M4V 1N5": [
+    "(416) 656-4012",
+    "https://locations.timhortons.com/ca/on/toronto/55-st-clair-ave-w.html",
+    43.6871903,
+    -79.396706
+  ],
+  "171 East Liberty St M6K 3P6": [
+    "(416) 530-5959",
+    "https://locations.timhortons.com/ca/on/toronto/171-east-liberty-st.html",
+    43.6381221,
+    -79.41815609999999
+  ],
+  "100 King St West M5X 2A1": [
+    "(647) 346-2385",
+    "https://locations.timhortons.com/ca/on/toronto/100-king-st-west.html",
+    43.6486362,
+    -79.38174389999999
+  ],
+  "334 Bloor St West M5S 1W9": [
+    "(416) 928-9603",
+    "https://locations.timhortons.com/ca/on/toronto/334-bloor-st-west.html",
+    43.6667303,
+    -79.4041099
+  ],
+  "590 Keele Street M6N 3E7": [
+    "(416) 766-5555",
+    "https://locations.timhortons.com/ca/on/toronto/590-keele-street.html",
+    43.6711578,
+    -79.46787189999999
+  ],
+  "500 Commissioners St M4M 1B4": [
+    "(416) 542-3752",
+    "https://locations.timhortons.com/ca/on/toronto/500-commissioners-st.html",
+    43.6564676,
+    -79.3264714
+  ],
+  "750 Dundas St West M6J 3S3": [
+    "(416) 364-6129",
+    "https://locations.timhortons.com/ca/on/toronto/750-dundas-st-west.html",
+    43.6524067,
+    -79.4064392
+  ],
+  "1801 Eglinton Ave M6E 2H8": [
+    "(416) 780-0765",
+    "https://locations.timhortons.com/ca/on/toronto/1801-eglinton-ave.html",
+    43.6956752,
+    -79.44905059999999
+  ],
+  "65 Front Str W M5J 1E6": [
+    "(647) 830-1537",
+    "https://locations.timhortons.com/ca/on/toronto/65-front-str-w.html",
+    43.64531969999999,
+    -79.3804062
+  ],
+  "55 Front St East M5E 1B5": [
+    "(647) 748-5100",
+    "https://locations.timhortons.com/ca/on/toronto/55-front-st-east.html",
+    43.6479148,
+    -79.3738479
+  ],
+  "2571 St Clair Ave West M6N 4Z5": [
+    "(416) 762-9600",
+    "https://locations.timhortons.com/ca/on/toronto/2571-st-clair-ave-west.html",
+    43.6677316,
+    -79.4880088
+  ],
+  "150 Dupont St M5R 2E6": [
+    "(416) 925-6996",
+    "https://locations.timhortons.com/ca/on/toronto/150-dupont-st.html",
+    43.6757996,
+    -79.4035318
+  ],
+  "2377 Yonge St M4P 2C8": [
+    "(416) 484-4231",
+    "https://locations.timhortons.com/ca/on/toronto/2377-yonge-st.html",
+    43.7094657,
+    -79.3986252
+  ],
+  "2 Queen St East M5C 3G7": [
+    "(416) 214-1305",
+    "https://locations.timhortons.com/ca/on/toronto/2-queen-st-east.html",
+    43.6527958,
+    -79.3788429
+  ],
+  "207 Queens Quay M5J 1A7": [
+    "(416) 214-9474",
+    "https://locations.timhortons.com/ca/on/toronto/207-queens-quay.html",
+    43.6388865,
+    -79.380352
+  ],
+  "2 Bloor St E M4W 1A8": [
+    "(647) 343-0953",
+    "https://locations.timhortons.com/ca/on/toronto/2-bloor-st-e.html",
+    43.6710978,
+    -79.386063
+  ],
+  "553 Lakeshore Rd West M5V 1A6": [
+    "(416) 955-0099",
+    "https://locations.timhortons.com/ca/on/toronto/553-lakeshore-rd-west.html",
+    43.6361782,
+    -79.39971829999999
+  ],
+  "1750 Finch Ave East M2J 2X5": [
+    "(416) 491-5050",
+    "https://locations.timhortons.com/ca/on/toronto/1750-finch-ave-east.html",
+    43.7958041,
+    -79.34954789999999
+  ],
+  "800 Bay St M5S 3A9": [
+    "(647) 344-2373",
+    "https://locations.timhortons.com/ca/on/toronto/800-bay-st.html",
+    43.661198,
+    -79.38641489999999
+  ],
+  "900 Dufferin St M6H 4B1": [
+    "(416) 535-6669",
+    "https://locations.timhortons.com/ca/on/toronto/900-dufferin-st.html",
+    43.6562242,
+    -79.43557729999999
+  ],
+  "145 King St West M5H 1J8": [
+    "(416) 865-0101",
+    "https://locations.timhortons.com/ca/on/toronto/145-king-st-west.html",
+    43.6474734,
+    -79.3839517
+  ],
+  "200 Front St M5V 1J2": [
+    "(416) 640-1433",
+    "https://locations.timhortons.com/ca/on/toronto/200-front-st.html",
+    43.6449355,
+    -79.386151
+  ],
+  "101 Humber College Blvd M9V 1R8": [
+    "(416) 401-8023",
+    "https://locations.timhortons.com/ca/on/toronto/101-humber-college-blvd.html",
+    43.73088449999999,
+    -79.59938749999999
+  ],
+  "40 Bay Street M5J 2X2": [
+    "(416) 815-5729",
+    "https://locations.timhortons.com/ca/on/toronto/40-bay-street.html",
+    43.6435205,
+    -79.3790818
+  ],
+  "30 Bond St M5B 1W8": [
+    "(416) 864-6060",
+    "https://locations.timhortons.com/ca/on/toronto/30-bond-st.html",
+    43.6537678,
+    -79.37832120000002
+  ],
+  "100 Wynford Dr M3C 4B4": [
+    "(416) 447-0683",
+    "https://locations.timhortons.com/ca/on/toronto/100-wynford-dr.html",
+    43.7265812,
+    -79.3318334
+  ],
+  "10 Dundas St E  Suite 104 M5B 2G8": [
+    "(647) 350-5363",
+    "https://locations.timhortons.com/ca/on/toronto/10-dundas-st-e--suite-104.html",
+    43.65696579999999,
+    -79.3804789
+  ],
+  "1630 Danforth Ave M4C 1H6": [
+    "(416) 469-3570",
+    "https://locations.timhortons.com/ca/on/toronto/1630-danforth-ave.html",
+    43.683901,
+    -79.32218979999999
+  ],
+  "20 Eglinton Ave West M4R 1K8": [
+    "(416) 481-7578",
+    "https://locations.timhortons.com/ca/on/toronto/20-eglinton-ave-west.html",
+    43.7066847,
+    -79.3994865
+  ],
+  "60 Bloor St West M4W 3B8": [
+    "(647) 351-3009",
+    "https://locations.timhortons.com/ca/on/toronto/60-bloor-st-west.html",
+    43.6700829,
+    -79.3891872
+  ],
+  "2 Bruyeres Mews M5V 0G8": [
+    "(647) 346-1616",
+    "https://locations.timhortons.com/ca/on/toronto/2-bruyeres-mews.html",
+    43.6374408,
+    -79.400311
+  ],
+  "200 Elizabeth St M5G 2C4": [
+    "(416) 979-2698",
+    "https://locations.timhortons.com/ca/on/toronto/200-elizabeth-st.html",
+    43.658666,
+    -79.3883689
+  ],
+  "1034 King St W M6K 3M9": [
+    "(416) 595-9090",
+    "https://locations.timhortons.com/ca/on/toronto/1034-king-st-w.html",
+    43.6416245,
+    -79.4159208
+  ],
+  "249 Queens Quay West M5V 1A2": [
+    "(416) 352-2990",
+    "https://locations.timhortons.com/ca/on/toronto/249-queens-quay-west.html",
+    43.638607,
+    -79.38588709999999
+  ],
+  "595 Bay St M5G 2C2": [
+    "(416) 260-0449",
+    "https://locations.timhortons.com/ca/on/toronto/595-bay-st.html",
+    43.6562198,
+    -79.38329089999999
+  ],
+  "77 Lower Jarvis M5E 1N1": [
+    "(416) 361-0550",
+    "https://locations.timhortons.com/ca/on/toronto/77-lower-jarvis.html",
+    43.6475595,
+    -79.37045309999999
+  ],
+  "2245 Yonge St M4S 2B1": [
+    "(416) 932-0873",
+    "https://locations.timhortons.com/ca/on/toronto/2245-yonge-st.html",
+    43.7063734,
+    -79.3978284
+  ],
+  "555 University Ave M5G 1X8": [
+    "(416) 813-8467",
+    "https://locations.timhortons.com/ca/on/toronto/555-university-ave.html",
+    43.6570957,
+    -79.3877344
+  ],
+  "751 Don Mills Rd M3C 1S3": [
+    "(416) 696-2300",
+    "https://locations.timhortons.com/ca/on/toronto/751-don-mills-rd.html",
+    43.7143068,
+    -79.3358105
+  ],
+  "2825 Markham Rd M1B 2W1": [
+    "(416) 292-5311",
+    "https://locations.timhortons.com/ca/on/toronto/2825-markham-rd.html",
+    43.8231082,
+    -79.2470091
+  ],
+  "726 Bloor St West M6G 4A1": [
+    "(416) 530-1974",
+    "https://locations.timhortons.com/ca/on/toronto/726-bloor-st-west.html",
+    43.66375619999999,
+    -79.4181861
+  ],
+  "180 Wellington St West M5J 1J1": [
+    "(416) 977-4577",
+    "https://locations.timhortons.com/ca/on/toronto/180-wellington-st-west.html",
+    43.64641870000001,
+    -79.3853592
+  ],
+  "200 King St East M5W 3A8": [
+    "(416) 415-5000",
+    "https://locations.timhortons.com/ca/on/toronto/200-king-st-east-8677129.html",
+    43.6512327,
+    -79.37027359999999
+  ],
+  "181 Bay St M5J 2V1": [
+    "(416) 359-0581",
+    "https://locations.timhortons.com/ca/on/toronto/181-bay-st.html",
+    43.64726160000001,
+    -79.3785998
+  ],
+  "261 Yonge St M5B 1N8": [
+    "(416) 203-8787",
+    "https://locations.timhortons.com/ca/on/toronto/261-yonge-st.html",
+    43.6552094,
+    -79.3800588
+  ],
+  "14 St Matthews Rd M4M 2B5": [
+    "(647) 724-1259",
+    "https://locations.timhortons.com/ca/on/toronto/14-st-matthews-rd.html",
+    43.6658334,
+    -79.355147
+  ],
+  "56 Wellesley St West M5S 2S3": [
+    "(416) 944-3961",
+    "https://locations.timhortons.com/ca/on/toronto/56-wellesley-st-west.html",
+    43.664575,
+    -79.3876465
+  ],
+  "50 Eglinton Ave M4P 1A6": [
+    "(416) 485-0888",
+    "https://locations.timhortons.com/ca/on/toronto/50-eglinton-ave.html",
+    43.707501,
+    -79.39661889999999
+  ],
+  "51 Dockside Dr M5A 0B6": [
+    "(416) 415-5000",
+    "https://locations.timhortons.com/ca/on/toronto/51-dockside-dr.html",
+    43.6439625,
+    -79.36547550000002
+  ],
+  "3401 Dufferin St M6A 2T9": [
+    "(416) 787-4432",
+    "https://locations.timhortons.com/ca/on/toronto/3401-dufferin-st.html",
+    43.7246843,
+    -79.4541729
+  ],
+  "45 Overlea Blvd M4H 1C3": [
+    "(416) 572-2628",
+    "https://locations.timhortons.com/ca/on/toronto/45-overlea-blvd.html",
+    43.7057953,
+    -79.3460276
+  ],
+  "3075 Danforth Ave M1L 1A8": [
+    "(416) 686-9107",
+    "https://locations.timhortons.com/ca/on/toronto/3075-danforth-ave.html",
+    43.6910538,
+    -79.2878356
+  ],
+  "18 King St East M5C 1C4": [
+    "(416) 363-9687",
+    "https://locations.timhortons.com/ca/on/toronto/18-king-st-east.html",
+    43.6496485,
+    -79.37708950000001
+  ],
+  "323 Richmond St M5A 4R3": [
+    "(416) 703-0340",
+    "https://locations.timhortons.com/ca/on/toronto/323-richmond-st.html",
+    43.6531574,
+    -79.3686431
+  ],
+  "380 Weston Rd M6N 5H1": [
+    "(416) 760-8787",
+    "https://locations.timhortons.com/ca/on/toronto/380-weston-rd.html",
+    43.6804894,
+    -79.4759035
+  ],
+  "1195 Danforth Ave M4J 1M7": [
+    "(416) 778-4447",
+    "https://locations.timhortons.com/ca/on/toronto/1195-danforth-ave.html",
+    43.6813109,
+    -79.3319391
+  ],
+  "555 Yonge St M4Y 3A6": [
+    "(647) 346-8467",
+    "https://locations.timhortons.com/ca/on/toronto/555-yonge-st.html",
+    43.6647233,
+    -79.3840836
+  ],
+  "399 Bathurst St M5T 2S8": [
+    "(416) 504-2662",
+    "https://locations.timhortons.com/ca/on/toronto/399-bathurst-st.html",
+    43.6533856,
+    -79.40594229999999
+  ],
+  "589 King St East M5V 1M1": [
+    "(416) 363-0222",
+    "https://locations.timhortons.com/ca/on/toronto/589-king-st-east.html",
+    43.6565173,
+    -79.35645699999999
+  ],
+  "33 University Ave M5J 2S7": [
+    "(416) 369-9802",
+    "https://locations.timhortons.com/ca/on/toronto/33-university-ave.html",
+    43.646254,
+    -79.3835998
+  ],
+  "2075 Bayview Ave M4N 3M5": [
+    "(416) 480-4893",
+    "https://locations.timhortons.com/ca/on/toronto/2075-bayview-ave-8677144.html",
+    43.7228457,
+    -79.3728749
+  ],
+  "3321 Dufferin St M6A 2T8": [
+    "(416) 785-3390",
+    "https://locations.timhortons.com/ca/on/toronto/3321-dufferin-st.html",
+    43.7228536,
+    -79.4562662
+  ],
+  "381 Mount Pleasant Rd M4S 2L5": [
+    "(416) 481-6464",
+    "https://locations.timhortons.com/ca/on/toronto/381-mount-pleasant-rd.html",
+    43.6985382,
+    -79.38620449999999
+  ],
+  "829 Lakeshore Blvd East M4M 1B2": [
+    "(416) 461-4636",
+    "https://locations.timhortons.com/ca/on/toronto/829-lakeshore-blvd-east.html",
+    43.6544369,
+    -79.33758569999999
+  ],
+  "1170 Bay St M5S 2B4": [
+    "(647) 346-3047",
+    "https://locations.timhortons.com/ca/on/toronto/1170-bay-st.html",
+    43.6689717,
+    -79.389562
+  ],
+  "550 St Clair Ave West M6C 1A5": [
+    "(416) 656-4012",
+    "https://locations.timhortons.com/ca/on/toronto/550-st-clair-ave-west.html",
+    43.6828563,
+    -79.42112709999999
+  ],
+  "33 Yonge St M5E 1G4": [
+    "(416) 913-5755",
+    "https://locations.timhortons.com/ca/on/toronto/33-yonge-st.html",
+    43.6476052,
+    -79.3766496
+  ],
+  "1033 Queen St West M6J 0A6": [
+    "(416) 534-7093",
+    "https://locations.timhortons.com/ca/on/toronto/1033-queen-st-west.html",
+    43.6438666,
+    -79.4193134
+  ],
+  "815 Caledonia Rd M6B 3X8": [
+    "(416) 785-0980",
+    "https://locations.timhortons.com/ca/on/toronto/815-caledonia-rd.html",
+    43.7014247,
+    -79.4637525
+  ],
+  "481 University Ave M5G 2E9": [
+    "(416) 598-5651",
+    "https://locations.timhortons.com/ca/on/toronto/481-university-ave.html",
+    43.6552395,
+    -79.38790759999999
+  ],
+  "101 College St M5T 1P5": [
+    "(416) 979-2442",
+    "https://locations.timhortons.com/ca/on/toronto/101-college-st.html",
+    43.6599298,
+    -79.3886594
+  ],
+  "185 Sheppard Ave East M2N 3A8": [
+    "(416) 223-9615",
+    "https://locations.timhortons.com/ca/on/toronto/185-sheppard-ave-east.html",
+    43.7637333,
+    -79.3993237
+  ],
+  "743 Pape Ave M4K 3T1": [
+    "(416) 778-8183",
+    "https://locations.timhortons.com/ca/on/toronto/743-pape-ave.html",
+    43.6799983,
+    -79.3446684
+  ],
+  "119 Spadina Ave M5V 2L1": [
+    "(416) 595-9338",
+    "https://locations.timhortons.com/ca/on/toronto/119-spadina-ave.html",
+    43.64703799999999,
+    -79.395286
+  ],
+  "700 Lawrence Ave West M6A 3B4": [
+    "(416) 783-7474",
+    "https://locations.timhortons.com/ca/on/toronto/700-lawrence-ave-west.html",
+    43.7166569,
+    -79.4472576
+  ],
+  "455 Spadina Ave M5S 1A1": [
+    "(416) 593-5523",
+    "https://locations.timhortons.com/ca/on/toronto/455-spadina-ave.html",
+    43.6582095,
+    -79.3996927
+  ],
+  "175 Bloor St E M4W 3R8": [
+    "(416) 551-7702",
+    "https://locations.timhortons.com/ca/on/toronto/175-bloor-st-e.html",
+    43.6706947,
+    -79.38250819999999
+  ],
+  "2871 Eglinton Ave East M1J 2E3": [
+    "(416) 264-5536",
+    "https://locations.timhortons.com/ca/on/toronto/2871-eglinton-ave-east.html",
+    43.7379221,
+    -79.24052139999999
+  ],
+  "256 Jarvis St M5B 2J4": [
+    "(416) 595-9679",
+    "https://locations.timhortons.com/ca/on/toronto/256-jarvis-st.html",
+    43.6593999,
+    -79.375663
+  ],
+  "1 Blue Jays Way rogers Ctr M5V 1J1": [
+    "(416) 341-2622",
+    "https://locations.timhortons.com/ca/on/toronto/1-blue-jays-way-rogers-ctr.html",
+    43.64177979999999,
+    -79.38914369999999
+  ],
+  "200 King St East M5A 3W8": [
+    "(416) 415-5000",
+    "https://locations.timhortons.com/ca/on/toronto/200-king-st-east-8677128.html",
+    43.6512327,
+    -79.37027359999999
+  ],
+  "1910 Yonge St M4S 1Z3": [
+    "(416) 481-0209",
+    "https://locations.timhortons.com/ca/on/toronto/1910-yonge-st.html",
+    43.69847040000001,
+    -79.3971408
+  ],
+  "603 Davenport Rd M5R 1L1": [
+    "(416) 920-5111",
+    "https://locations.timhortons.com/ca/on/toronto/603-davenport-rd.html",
+    43.67663109999999,
+    -79.4115163
+  ],
+  "874 Bloor Street West M6G 1M5": [
+    "(416) 537-5862",
+    "https://locations.timhortons.com/ca/on/toronto/874-bloor-street-west.html",
+    43.6623077,
+    -79.42508959999999
+  ],
+  "1 Richmond St West M5H 3W4": [
+    "(416) 214-4830",
+    "https://locations.timhortons.com/ca/on/toronto/1-richmond-st-west.html",
+    43.6513704,
+    -79.379245
+  ],
+  "241 Church St M5B 1Z4": [
+    "(416) 943-0860",
+    "https://locations.timhortons.com/ca/on/toronto/241-church-st.html",
+    43.656817,
+    -79.376969
+  ],
+  "2150 Bloor St West M6S 1M8": [
+    "(647) 344-2935",
+    "https://locations.timhortons.com/ca/on/toronto/2150-bloor-st-west.html",
+    43.6519937,
+    -79.47342069999999
+  ],
+  "438 University Ave M5G 2K8": [
+    "(416) 506-9138",
+    "https://locations.timhortons.com/ca/on/toronto/438-university-ave.html",
+    43.6543112,
+    -79.38887799999999
+  ],
+  "205 Humber College Blvd M9W 5L7": [
+    "(416) 675-6622",
+    "https://locations.timhortons.com/ca/on/toronto/205-humber-college-blvd.html",
+    43.7288425,
+    -79.6067281
+  ],
+  "477 Dundas St West M5T 1H1": [
+    "(416) 593-1477",
+    "https://locations.timhortons.com/ca/on/toronto/477-dundas-st-west.html",
+    43.6529884,
+    -79.39708089999999
+  ],
+  "657 University Ave M5G 2C4": [
+    "(416) 595-0075",
+    "https://locations.timhortons.com/ca/on/toronto/657-university-ave.html",
+    43.6585422,
+    -79.3886836
+  ],
+  "952 King St West M6K 1E4": [
+    "(416) 348-9494",
+    "https://locations.timhortons.com/ca/on/toronto/952-king-st-west.html",
+    43.6422375,
+    -79.4125368
+  ],
+  "26 Dundas St M5B 2L6": [
+    "(416) 979-9685",
+    "https://locations.timhortons.com/ca/on/toronto/26-dundas-st.html",
+    43.6566784,
+    -79.3799366
+  ],
+  "218 Yonge St M5B 2H1": [
+    "(416) 581-1122",
+    "https://locations.timhortons.com/ca/on/toronto/218-yonge-st.html",
+    43.6535366,
+    -79.3799731
+  ],
+  "4001 Leslie St M2K 1E1": [
+    "(416) 756-6040",
+    "https://locations.timhortons.com/ca/on/toronto/4001-leslie-st.html",
+    43.7694685,
+    -79.3625826
+  ],
+  "12 Queens Quay St West M5J 2V3": [
+    "(416) 260-1846",
+    "https://locations.timhortons.com/ca/on/toronto/12-queens-quay-st-west.html",
+    43.6414512,
+    -79.3760508
+  ],
+  "700 University Ave M5G 1Z5": [
+    "(416) 596-9700",
+    "https://locations.timhortons.com/ca/on/toronto/700-university-ave.html",
+    43.6588089,
+    -79.39098919999999
+  ],
+  "333 Eglinton Ave West M5P 2L3": [
+    "(416) 322-3140",
+    "https://locations.timhortons.com/ca/on/toronto/333-eglinton-ave-west.html",
+    43.70426519999999,
+    -79.40915249999999
+  ],
+  "2002 Queen St East M4L 1J3": [
+    "(416) 694-8393",
+    "https://locations.timhortons.com/ca/on/toronto/2002-queen-st-east.html",
+    43.6703036,
+    -79.2997455
+  ],
+  "175 Roncesvalles Ave M6R 2L3": [
+    "(416) 538-0786",
+    "https://locations.timhortons.com/ca/on/toronto/175-roncesvalles-ave.html",
+    43.64446239999999,
+    -79.4480397
+  ],
+  "1094 Bloor St West M6H 1M5": [
+    "(416) 516-3003",
+    "https://locations.timhortons.com/ca/on/toronto/1094-bloor-st-west.html",
+    43.6602998,
+    -79.4344004
+  ],
+  "720 King St West M5V 2T3": [
+    "(416) 603-7884",
+    "https://locations.timhortons.com/ca/on/toronto/720-king-st-west.html",
+    43.6439933,
+    -79.4038314
+  ],
+  "1480 Queen St West M6K 1M4": [
+    "(416) 516-8947",
+    "https://locations.timhortons.com/ca/on/toronto/1480-queen-st-west.html",
+    43.6406415,
+    -79.4372698
+  ],
+  "444 Yonge St M5B 2H4": [
+    "(416) 597-6781",
+    "https://locations.timhortons.com/ca/on/toronto/444-yonge-st-8677200.html",
+    43.66070089999999,
+    -79.3835539
+  ],
+  "659 Queen St W M6G 1L1": [
+    "(647) 347-1652",
+    "https://locations.timhortons.com/ca/on/toronto/659-queen-st-w.html",
+    43.646976,
+    -79.4044031
+  ],
+  "340 Front St West M5V 3W7": [
+    "(416) 506-1972",
+    "https://locations.timhortons.com/ca/on/toronto/340-front-st-west.html",
+    43.6436385,
+    -79.3918724
+  ]
+}
